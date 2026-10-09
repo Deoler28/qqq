@@ -39,6 +39,8 @@ Regeln:
 - Futur statt Präsens in Bedingungen: „wenn es nicht klappen wird“ →
   „wenn es nicht klappt“
 - Verb nicht am Ende im Nebensatz
+- W-Fragen: Verb nicht an Position 2: „Wieso er korrigiert nicht?“ →
+  „Wieso korrigiert er nicht?“
 - Trennbare Verben ohne Vorsilbe: „sieht wie ein Traum“ → „sieht wie ein Traum
   **aus**“
 - Fehlendes „zu“ bei „um … zu“; fehlendes Subjekt („Was kann statt machen?“)
